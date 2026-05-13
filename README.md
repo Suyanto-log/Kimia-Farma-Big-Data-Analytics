@@ -8,10 +8,10 @@ Analisis kinerja bisnis Kimia Farma Tahun 2020-2023Berikut ini adalah task yang 
 
 Importing Dataset to BigQuery Pada proyek ini ditugaskan untuk mengimpor dataset yang telah disediakan:
 
-kf_final_transaction.csv (link),
-kf_inventory.csv (link),
-kf_kantor_cabang.csv (link),
-kf_product.csv (link). 
+1. kf_final_transaction.csv (link),
+2. kf_inventory.csv (link),
+3. kf_kantor_cabang.csv (link),
+4. kf_product.csv (link). 
 
 
 mengimport keempat dataset tersebut untuk menjadi tabel pada BigQuery, nama tablenya merupakan nama dari dataset, namun tanpa ".csv"
